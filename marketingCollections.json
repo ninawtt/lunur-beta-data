@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Famous Fox Federation",
+    "chainType": "SOLANA",
+    "price": null,
+    "img": "https://ipfs.io/ipfs/Qmetu9eyf7jxE9cNV9MYMWborQBGHqurt1MvD2LjwDcumy",
+    "marketplaceUrl": "https://magiceden.io/marketplace/famous_fox_federation",
+    "websiteUrl": "https://famousfoxes.com/",
+    "twitterUrl": "https://twitter.com/famousfoxfed",
+    "discordUrl": "https://discord.com/invite/famousfoxes"
+  },
+  {
+    "name": "Solana Monkey Business",
+    "chainType": "SOLANA",
+    "price": null,
+    "img": "https://i.imgur.com/bMH6qNc.png",
+    "marketplaceUrl": "https://market.solanamonkey.business/",
+    "websiteUrl": "https://solanamonkey.business/",
+    "twitterUrl": "https://twitter.com/SolanaMBS",
+    "discordUrl": "https://discord.com/invite/solanamonkey"
+  },
+  {
+    "name": "DeGods",
+    "chainType": "SOLANA",
+    "price": null,
+    "img": "https://i.imgur.com/fO3tI1t.png",
+    "marketplaceUrl": "https://magiceden.io/marketplace/degods",
+    "websiteUrl": "https://www.degods.com/",
+    "twitterUrl": "https://twitter.com/degodsnft",
+    "discordUrl": "https://discord.com/invite/dedao"
+  }
+]
