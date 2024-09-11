@@ -5,7 +5,7 @@
     "level": "EASY",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/"
   },
   {
     "id": 543,
@@ -13,7 +13,7 @@
     "level": "EASY",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/diameter-of-binary-tree/description/",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/description/"
   },
   {
     "id": 2331,
@@ -21,7 +21,7 @@
     "level": "EASY",
     "tags": ["TREE"],
     "sources": ["LC_DAILY_CHALLENGE"],
-    "url": "https://leetcode.com/problems/evaluate-boolean-binary-tree/description/",
+    "url": "https://leetcode.com/problems/evaluate-boolean-binary-tree/description/"
   },
   {
     "id": 1325,
@@ -29,7 +29,7 @@
     "level": "MEDIUM",
     "tags": ["TREE"],
     "sources": ["LC_DAILY_CHALLENGE"],
-    "url": "https://leetcode.com/problems/delete-leaves-with-a-given-value/description/",
+    "url": "https://leetcode.com/problems/delete-leaves-with-a-given-value/description/"
   },
   {
     "id": 654,
@@ -37,7 +37,7 @@
     "level": "MEDIUM",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/maximum-binary-tree/description/",
+    "url": "https://leetcode.com/problems/maximum-binary-tree/description/"
   },
   {
     "id": 105,
@@ -45,7 +45,7 @@
     "level": "MEDIUM",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/"
   },
   {
     "id": 106,
@@ -53,7 +53,7 @@
     "level": "MEDIUM",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/"
   },
   {
     "id": 889,
@@ -61,7 +61,7 @@
     "level": "MEDIUM",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/"
   },
   {
     "id": 297,
@@ -69,7 +69,7 @@
     "level": "HARD",
     "tags": ["TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/"
   },
   {
     "id": 230,
@@ -77,7 +77,7 @@
     "level": "MEDIUM",
     "tags": ["TREE", "BINARY_SEARCH_TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/"
   },
   {
     "id": 538,
@@ -85,7 +85,7 @@
     "level": "MEDIUM",
     "tags": ["TREE", "BINARY_SEARCH_TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/convert-bst-to-greater-tree/description/",
+    "url": "https://leetcode.com/problems/convert-bst-to-greater-tree/description/"
   },
   {
     "id": 222,
@@ -93,7 +93,7 @@
     "level": "MEDIUM",
     "tags": ["TREE", "BINARY_SEARCH_TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/count-complete-tree-nodes/description/",
+    "url": "https://leetcode.com/problems/count-complete-tree-nodes/description/"
   },
   {
     "id": 236,
@@ -101,7 +101,7 @@
     "level": "MEDIUM",
     "tags": ["TREE", "LOWEST_COMMON_ANCESTOR"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/"
   },
   {
     "id": 235,
@@ -109,7 +109,7 @@
     "level": "MEDIUM",
     "tags": ["TREE", "LOWEST_COMMON_ANCESTOR", "BINARY_SEARCH_TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/"
   },
   {
     "id": 110,
@@ -117,7 +117,7 @@
     "level": "EASY",
     "tags": ["TREE"],
     "sources": ["GRIND75"],
-    "url": "https://leetcode.com/problems/balanced-binary-tree/description/",
+    "url": "https://leetcode.com/problems/balanced-binary-tree/description/"
   },
   {
     "id": 48,
@@ -125,7 +125,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "ROTATE_REVERSE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/rotate-image/description/",
+    "url": "https://leetcode.com/problems/rotate-image/description/"
   },
   {
     "id": 54,
@@ -133,7 +133,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "SPIRAL_MATRIX"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/spiral-matrix/description/",
+    "url": "https://leetcode.com/problems/spiral-matrix/description/"
   },
   {
     "id": 59,
@@ -141,7 +141,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "SPIRAL_MATRIX"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/spiral-matrix-ii/",
+    "url": "https://leetcode.com/problems/spiral-matrix-ii/"
   },
   {
     "id": 733,
@@ -149,7 +149,7 @@
     "level": "EASY",
     "tags": ["ARRAY", "FloodFill"],
     "sources": ["GRIND75"],
-    "url": "https://leetcode.com/problems/flood-fill/description/",
+    "url": "https://leetcode.com/problems/flood-fill/description/"
   },
   {
     "id": 200,
@@ -157,7 +157,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "FloodFill"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/number-of-islands/description/",
+    "url": "https://leetcode.com/problems/number-of-islands/description/"
   },
   {
     "id": 130,
@@ -165,7 +165,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "FloodFill"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/surrounded-regions/description/",
+    "url": "https://leetcode.com/problems/surrounded-regions/description/"
   },
   {
     "id": 1254,
@@ -173,7 +173,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "FloodFill"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/number-of-closed-islands/",
+    "url": "https://leetcode.com/problems/number-of-closed-islands/"
   },
   {
     "id": 1020,
@@ -181,7 +181,7 @@
     "level": "MEDIUM",
     "tags": ["ARRAY", "FloodFill"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/number-of-enclaves/description/",
+    "url": "https://leetcode.com/problems/number-of-enclaves/description/"
   },
   {
     "id": 75,
@@ -189,7 +189,7 @@
     "level": "MEDIUM",
     "tags": ["QUICK_SORT"],
     "sources": [],
-    "url": "https://leetcode.com/problems/sort-colors/description/",
+    "url": "https://leetcode.com/problems/sort-colors/description/"
   },
   {
     "id": 315,
@@ -197,7 +197,7 @@
     "level": "HARD",
     "tags": ["MERGE_SORT"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/",
+    "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/"
   },
   {
     "id": 704,
@@ -205,7 +205,7 @@
     "level": "EASY",
     "tags": ["BINARY_SEARCH"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/binary-search/description/",
+    "url": "https://leetcode.com/problems/binary-search/description/"
   },
   {
     "id": 658,
@@ -213,14 +213,14 @@
     "level": "MEDIUM",
     "tags": ["BINARY_SEARCH", "TWO_POINTERS"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/find-k-closest-elements/description/",
+    "url": "https://leetcode.com/problems/find-k-closest-elements/description/"
   },
   {
     "id": 162,
     "title": "162. Find Peak Element",
     "level": "MEDIUM",
     "tags": ["BINARY_SEARCH"],
-    "sources": [],
+    "sources": []
   },
   {
     "id": 303,
@@ -228,7 +228,7 @@
     "level": "EASY",
     "tags": ["PREFIX_SUM"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "url": "https://leetcode.com/problems/range-sum-query-immutable/"
   },
   {
     "id": 304,
@@ -236,7 +236,7 @@
     "level": "MEDIUM",
     "tags": ["PREFIX_SUM"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/"
   },
   {
     "id": 370,
@@ -244,7 +244,7 @@
     "level": "MEDIUM",
     "tags": ["DIFF_SUM"],
     "sources": ["LABULADON"],
-    "url": "PREFIX_DIFF_SUM warmup",
+    "url": "PREFIX_DIFF_SUM warmup"
   },
   {
     "id": 1094,
@@ -252,7 +252,7 @@
     "level": "MEDIUM",
     "tags": ["DIFF_SUM"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/car-pooling/description/",
+    "url": "https://leetcode.com/problems/car-pooling/description/"
   },
   {
     "id": 1109,
@@ -260,7 +260,7 @@
     "level": "MEDIUM",
     "tags": ["DIFF_SUM"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/corporate-flight-bookings/description/",
+    "url": "https://leetcode.com/problems/corporate-flight-bookings/description/"
   },
   {
     "id": 46,
@@ -268,7 +268,7 @@
     "level": "MEDIUM",
     "tags": ["BACKTRACKING"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/permutations/description/",
+    "url": "https://leetcode.com/problems/permutations/description/"
   },
   {
     "id": 78,
@@ -276,7 +276,7 @@
     "level": "MEDIUM",
     "tags": ["BACKTRACKING"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/subsets/",
+    "url": "https://leetcode.com/problems/subsets/"
   },
   {
     "id": 77,
@@ -284,7 +284,7 @@
     "level": "MEDIUM",
     "tags": ["BACKTRACKING"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/combinations/description/",
+    "url": "https://leetcode.com/problems/combinations/description/"
   },
   {
     "id": 125,
@@ -292,7 +292,7 @@
     "level": "EASY",
     "tags": ["TWO_POINTERS"],
     "sources": ["LABULADON", "GRIND75"],
-    "url": "https://leetcode.com/problems/valid-palindrome/description/",
+    "url": "https://leetcode.com/problems/valid-palindrome/description/"
   },
   {
     "id": 3,
@@ -300,7 +300,7 @@
     "level": "MEDIUM",
     "tags": ["SLIDING_WINDOW"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
   },
   {
     "id": 76,
@@ -308,7 +308,7 @@
     "level": "HARD",
     "tags": ["SLIDING_WINDOW"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/minimum-window-substring/",
+    "url": "https://leetcode.com/problems/minimum-window-substring/"
   },
   {
     "id": 438,
@@ -316,7 +316,7 @@
     "level": "MEDIUM",
     "tags": ["SLIDING_WINDOW", "ANAGRAM"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
   },
   {
     "id": 567,
@@ -324,7 +324,7 @@
     "level": "MEDIUM",
     "tags": ["SLIDING_WINDOW"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/permutation-in-string/description/",
+    "url": "https://leetcode.com/problems/permutation-in-string/description/"
   },
   {
     "id": 242,
@@ -332,7 +332,7 @@
     "level": "EASY",
     "tags": ["SLIDING_WINDOW"],
     "sources": ["LABULADON", "GRIND75"],
-    "url": "https://leetcode.com/problems/valid-anagram/description/",
+    "url": "https://leetcode.com/problems/valid-anagram/description/"
   },
   {
     "id": 20,
@@ -340,7 +340,7 @@
     "level": "EASY",
     "tags": ["STACK"],
     "sources": ["LABULADON", "GRIND75"],
-    "url": "https://leetcode.com/problems/valid-parentheses/description/",
+    "url": "https://leetcode.com/problems/valid-parentheses/description/"
   },
   {
     "id": 496,
@@ -348,7 +348,7 @@
     "level": "EASY",
     "tags": ["MONOTONIC_STACK"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/next-greater-element-i/",
+    "url": "https://leetcode.com/problems/next-greater-element-i/"
   },
   {
     "id": 503,
@@ -356,7 +356,7 @@
     "level": "MEDIUM",
     "tags": ["MONOTONIC_STACK"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/next-greater-element-ii/description/",
+    "url": "https://leetcode.com/problems/next-greater-element-ii/description/"
   },
   {
     "id": 739,
@@ -364,7 +364,7 @@
     "level": "MEDIUM",
     "tags": ["MONOTONIC_STACK"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/daily-temperatures/",
+    "url": "https://leetcode.com/problems/daily-temperatures/"
   },
   {
     "id": 239,
@@ -372,7 +372,7 @@
     "level": "HARD",
     "tags": ["MONOTONIC_QUEUE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/"
   },
   {
     "id": 56,
@@ -380,7 +380,7 @@
     "level": "MEDIUM",
     "tags": ["INTERVAL"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/merge-intervals/description/",
+    "url": "https://leetcode.com/problems/merge-intervals/description/"
   },
   {
     "id": 1288,
@@ -388,7 +388,7 @@
     "level": "MEDIUM",
     "tags": ["INTERVAL"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/remove-covered-intervals/description/",
+    "url": "https://leetcode.com/problems/remove-covered-intervals/description/"
   },
   {
     "id": 986,
@@ -396,7 +396,7 @@
     "level": "MEDIUM",
     "tags": ["INTERVAL"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/interval-list-intersections/description/",
+    "url": "https://leetcode.com/problems/interval-list-intersections/description/"
   },
   {
     "id": 208,
@@ -404,7 +404,7 @@
     "level": "MEDIUM",
     "tags": ["TRIE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/description/"
   },
   {
     "id": 797,
@@ -412,7 +412,7 @@
     "level": "MEDIUM",
     "tags": ["GRAPH"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/all-paths-from-source-to-target/description/",
+    "url": "https://leetcode.com/problems/all-paths-from-source-to-target/description/"
   },
   {
     "id": 684,
@@ -420,7 +420,7 @@
     "level": "MEDIUM",
     "tags": ["GRAPH", "UNION_FIND"],
     "sources": ["NEETCODE150"],
-    "url": "https://leetcode.com/problems/redundant-connection/description/",
+    "url": "https://leetcode.com/problems/redundant-connection/description/"
   },
   {
     "id": 1584,
@@ -428,7 +428,7 @@
     "level": "MEDIUM",
     "tags": ["GRAPH", "UNION_FIND", "KRUSKAL", "MINIMUM_SPANNING_TREE"],
     "sources": ["LABULADON", "NEETCODE150"],
-    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/description/",
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/description/"
   },
   {
     "id": 743,
@@ -436,7 +436,7 @@
     "level": "MEDIUM",
     "tags": ["GRAPH", "DIJKSTRA"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/network-delay-time/description/",
+    "url": "https://leetcode.com/problems/network-delay-time/description/"
   },
   {
     "id": 210,
@@ -444,7 +444,7 @@
     "level": "MEDIUM",
     "tags": ["GRAPH", "TOPOLOGICAL_SORT"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/course-schedule-ii/description/",
+    "url": "https://leetcode.com/problems/course-schedule-ii/description/"
   },
   {
     "id": 70,
@@ -452,7 +452,7 @@
     "level": "EASY",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "url": "https://leetcode.com/problems/climbing-stairs/"
   },
   {
     "id": 746,
@@ -460,7 +460,7 @@
     "level": "EASY",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/"
   },
   {
     "id": 322,
@@ -468,7 +468,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/coin-change/description/",
+    "url": "https://leetcode.com/problems/coin-change/description/"
   },
   {
     "id": 300,
@@ -476,7 +476,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/"
   },
   {
     "id": 931,
@@ -484,7 +484,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/minimum-falling-path-sum/",
+    "url": "https://leetcode.com/problems/minimum-falling-path-sum/"
   },
   {
     "id": 53,
@@ -492,7 +492,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/maximum-subarray/description/",
+    "url": "https://leetcode.com/problems/maximum-subarray/description/"
   },
   {
     "id": 198,
@@ -500,7 +500,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/house-robber/description/",
+    "url": "https://leetcode.com/problems/house-robber/description/"
   },
   {
     "id": 213,
@@ -508,7 +508,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/house-robber-ii/description",
+    "url": "https://leetcode.com/problems/house-robber-ii/description"
   },
   {
     "id": 337,
@@ -516,7 +516,7 @@
     "level": "MEDIUM",
     "tags": ["DP", "TREE"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/house-robber-iii/",
+    "url": "https://leetcode.com/problems/house-robber-iii/"
   },
   {
     "id": 121,
@@ -524,7 +524,7 @@
     "level": "EASY",
     "tags": ["DP"],
     "sources": ["LABULADON", "GRIND75"],
-    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
   },
   {
     "id": 122,
@@ -532,7 +532,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/"
   },
   {
     "id": 123,
@@ -540,7 +540,7 @@
     "level": "HARD",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/"
   },
   {
     "id": 188,
@@ -548,7 +548,7 @@
     "level": "HARD",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/"
   },
   {
     "id": 309,
@@ -556,7 +556,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/"
   },
   {
     "id": 714,
@@ -564,7 +564,7 @@
     "level": "MEDIUM",
     "tags": ["DP"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/"
   },
   {
     "id": 50,
@@ -572,7 +572,7 @@
     "level": "MEDIUM",
     "tags": ["MATH"],
     "sources": ["LABULADON"],
-    "url": "https://leetcode.com/problems/powx-n/description/",
+    "url": "https://leetcode.com/problems/powx-n/description/"
   },
   {
     "id": 69,
@@ -580,6 +580,6 @@
     "level": "EASY",
     "tags": ["MATH", "BINARY_SEARCH"],
     "sources": [],
-    "url": "https://leetcode.com/problems/sqrtx/",
+    "url": "https://leetcode.com/problems/sqrtx/"
   }
 ]
